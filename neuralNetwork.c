@@ -2,9 +2,8 @@
 /_/                      
 
 Neural network code to learn wine database .
-/*
-Headers
 */
+
 #include<stdio.h>
 #include<strings.h>
 #include<stdlib.h>
